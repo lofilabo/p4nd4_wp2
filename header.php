@@ -1,12 +1,10 @@
+
 <!doctype html>
 <html lang="en">
-
-<head>
-
-
-
+  <head>
 
     <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">    
+    <link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono&display=swap" rel="stylesheet">
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -30,13 +28,30 @@
     <style>
 
     body{
-        font-family: 'Oswald', sans-serif;
+        /*font-family: 'Oswald', sans-serif;*/
+	font-family: 'Share Tech Mono', monospace;
     }
+
+
 
     </style>
 
-</head>
-<body>
+  </head>
+
+  <body>
+
+    <div class="container">
+      <header class="blog-header">
+        &nbsp;<!--HEADER BLOCK-->
+      </header>
 
 
 
+
+    </div>
+
+    <main role="main" class="container">
+
+        <div class="row px-4 mt-4">
+            <div class="col-12">
+                <p>
