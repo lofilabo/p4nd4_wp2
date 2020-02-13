@@ -2,7 +2,7 @@
 <?php
 get_header();
 
-$pages = get_pages(); 
+$pages = get_pages( array('sort_column' => 'menu_order')  ); 
 
 //var_dump( $pages );
 

@@ -3,6 +3,9 @@
 
 get_header();
 
+//$pages = get_pages();
+//var_dump( $pages );
+
  if(have_posts()) : ?>
     <?php while(have_posts())  : the_post(); ?>
       <h2><?php the_title(); ?></h2>                        

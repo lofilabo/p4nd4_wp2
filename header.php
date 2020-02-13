@@ -5,7 +5,9 @@
 
     <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">    
     <link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono&display=swap" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css?family=Abel&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Exo+2&display=swap" rel="stylesheet">
+    
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -13,7 +15,7 @@
     <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
 
     <title>
-    
+    p4nd4
     </title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/blog/">
@@ -29,10 +31,44 @@
 
     body{
         /*font-family: 'Oswald', sans-serif;*/
-	font-family: 'Share Tech Mono', monospace;
+	/*font-family: 'Share Tech Mono', monospace;*/
+	/*font-family: 'Abel', sans-serif;*/
+        font-family: 'Exo 2', sans-serif;
+	font-size:1.4em;
     }
 
 
+    .halfw{
+        width:45%;
+    }
+
+    .cyanb{
+        padding: 0px;
+        border-width: 1px;
+        border-style: dashed;
+        border-color: cyan;        
+    }
+
+    .redb{
+        padding: 0px;
+        border-width: 1px;
+        border-style: dashed;
+        border-color: red;        
+    }
+
+    .blueb{
+        padding: 0px;
+        border-width: 1px;
+        border-style: dashed;
+        border-color: blue;        
+    }
+
+    .greenb{
+        padding: 0px;
+        border-width: 1px;
+        border-style: dashed;
+        border-color: green;        
+    }
 
     </style>
 
@@ -51,6 +87,16 @@
     </div>
 
     <main role="main" class="container">
+
+        <div class="row px-4 mt-4">
+            <div class="col-12">
+                <p>
+			<h1>p4nd4  &#x0447;</h1>
+			<a href='http://p4nd4.net/'>Back to Contents</a>
+		</p>
+		<hr/>
+            </div>
+        </div>
 
         <div class="row px-4 mt-4">
             <div class="col-12">
