@@ -37,6 +37,9 @@
 	font-size:1.4em;
     }
 
+    p{
+	font-family: Arial, Helvetica, sans-serif;
+    }
 
     .halfw{
         width:45%;
